@@ -1,6 +1,6 @@
 # DAMN VULNERABLE WEB APPLICATION - PROTOTYPE by AINE for CYBER SKILLS
 To demonstrate the vulnerabilitiles of the low security level and mitigation through the impossible
-1. Cryptography -[ ](https://mycit-secure-software-dev.atlassian.net/browse/SCRUM-2)
+1. Cryptography -https://mycit-secure-software-dev.atlassian.net/browse/SCRUM-2
 2. Authorisation Bypass - https://mycit-secure-software-dev.atlassian.net/browse/SCRUM-30
 3. SQL Injection - https://mycit-secure-software-dev.atlassian.net/browse/SCRUM-27
    

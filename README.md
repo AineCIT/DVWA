@@ -1,3 +1,11 @@
+# DAMN VULNERABLE WEB APPLICATION - PROTOTYPE by AINE for CYBER SKILLS
+To demonstrate the vulnerabilitiles of the low security level and mitigation through the impossible
+1. Cryptography -[ ](https://mycit-secure-software-dev.atlassian.net/browse/SCRUM-2)
+2. Authorisation Bypass - https://mycit-secure-software-dev.atlassian.net/browse/SCRUM-30
+3. SQL Injection - https://mycit-secure-software-dev.atlassian.net/browse/SCRUM-27
+   
+
+
 # DAMN VULNERABLE WEB APPLICATION
 
 Damn Vulnerable Web Application (DVWA) is a PHP/MySQL web application that is damn vulnerable. Its main goal is to be an aid for security professionals to test their skills and tools in a legal environment, help web developers better understand the processes of securing web applications and to aid both students & teachers to learn about web application security in a controlled class room environment.
